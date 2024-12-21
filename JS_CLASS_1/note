@@ -1,0 +1,4 @@
+--><script src="Script.js" defer></script>--> jodi body tea starting e JS rakte chaile "defer" rakte hobe etar mane age html run hobe tar por JS start hobe
+async --> use kora jate pare but etar mane ek sathe html and JS eksathe run hobe.but eta better approch noi defer better approch
+
+--> variable in JS is var,let,const
